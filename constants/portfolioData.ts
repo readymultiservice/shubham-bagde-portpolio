@@ -25,7 +25,7 @@ import type { SocialLink, Skill, Project, ExperienceItem } from '../types';
 export const NAME = "Shubham Bagde";
 export const ROLES = ["Lead UI/UX & Website Designer", "Digital Marketing Strategist", "WordPress Expert", "Founder @ Ready Multi Service"];
 export const BIO = "Web Development + Digital Marketing for Startups & Realtors. I build high-converting websites and run ROI-driven campaigns that drive measurable growth.";
-export const PROFILE_PICTURE = "assets/profile.jpg";
+export const PROFILE_PICTURE = "/assets/profile.jpg";
 
 
 // --- SOCIAL LINKS --- //
