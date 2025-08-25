@@ -1,0 +1,5 @@
+{
+  "name": "React Portfolio Website",
+  "description": "A modern, animated, and responsive portfolio website built with React, TypeScript, and Tailwind CSS. Users can easily customize their information in a dedicated data file.",
+  "requestFramePermissions": []
+}
